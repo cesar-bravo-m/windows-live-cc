@@ -2,11 +2,13 @@
 
 **Windows Live CC** is a Windows app that shows near real time speech captions from captured system audio, with optional translations to Spanish.
 
+<img width="1777" height="454" alt="image" src="https://github.com/user-attachments/assets/317c3317-2ad0-448c-a7ed-cceea8608369" />
+
+---
+
 This project is part of the **ESLTools** suite of utilities for developers who are non-native English speakers. See also:
 
 - **[eslint-plugin-only-english-identifiers](https://github.com/cesar-bravo-m/eslint-plugin-only-english-identifiers)** — ESLint plugin that enforces English-only names for variables, functions, and object properties.
-
-> **Status: in development.** Setup and usage may change.
 
 ---
 
