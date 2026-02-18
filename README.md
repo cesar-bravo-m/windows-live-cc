@@ -23,4 +23,4 @@ This project is part of the **ESLTools** suite of utilities for developers who a
 
 ## License
 
-See repository or project files for license information.
+ISC — see [LICENSE](LICENSE).
